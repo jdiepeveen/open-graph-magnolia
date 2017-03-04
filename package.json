@@ -1,0 +1,20 @@
+{
+  "name": "open-graph-magnolia",
+  "version": "0.0.1",
+  "description": "Open Graph meta tags - Component template for Magnolia CMS",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdiepeveen/open-graph-magnolia.git"
+  },
+  "keywords": [
+    "magnolia-light-module",
+    "magnolia-component",
+    "magnolia-macro",
+    "open-graph"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jdiepeveen/open-graph-magnolia/issues"
+  },
+  "homepage": "https://github.com/jdiepeveen/open-graph-magnolia#readme"
+}
