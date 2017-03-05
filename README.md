@@ -1,6 +1,6 @@
-# open-graph-magnolia
+# Open Graph meta tags for Magnolia CMS
 
-Generate Open Graph meta tags
+Generates Open Graph meta tags for your website for sharing pages with Linkedin, Facebook and more.
 
 ## Features
 
